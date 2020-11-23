@@ -857,5 +857,9 @@
     <Build Include="Security\stg.sql" />
     <Build Include="Security\stgaux.sql" />
     <Build Include="Security\Permissions.sql" />
+    <Build Include="stgaux\Tables\Copy of DIM_AREA_FORMACAO.sql">
+      <AnsiNulls>On</AnsiNulls>
+      <QuotedIdentifier>On</QuotedIdentifier>
+    </Build>
   </ItemGroup>
 </Project>
