@@ -1,0 +1,6 @@
+﻿GRANT CONNECT TO [PMg7sU];
+
+
+GO
+GRANT CONNECT TO [hmLL83];
+

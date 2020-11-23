@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[ETL_API] (
+    [ID_ETL_API_TABLES]     INT           IDENTITY (1, 1) NOT NULL,
+    [COD_INDICATOR]         INT           NULL,
+    [DSC_API_DIM_NAME]      VARCHAR (150) NULL,
+    [DSC_TABLE_DESTIN_NAME] VARCHAR (150) NULL
+);
+

@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[DIM_FREGUESIA] (
+    [ID_DIM_FREGUESIA] INT          NULL,
+    [DSC_FREGUESIA]    VARCHAR (50) NULL
+);
+

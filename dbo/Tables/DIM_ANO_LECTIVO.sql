@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[DIM_ANO_LECTIVO] (
+    [ID_DIM_ANO_LECTIVO] INT          NULL,
+    [DSC_ANO_LECTIVO]    VARCHAR (25) NULL
+);
+

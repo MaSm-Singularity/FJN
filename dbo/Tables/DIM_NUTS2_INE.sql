@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[DIM_NUTS2_INE] (
+    [ID_DIM_NUTS2_INE] INT          NULL,
+    [CD_NUTS2_INE]     VARCHAR (4)  NULL,
+    [DSC_NUTS2_INE]    VARCHAR (50) NULL
+);
+

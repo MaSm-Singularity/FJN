@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[teste_JSON_rjs] (
+    [FILENAME] VARCHAR (300) NULL,
+    [GEOCOD]   VARCHAR (300) NULL,
+    [GEODSG]   VARCHAR (300) NULL,
+    [DIM_3]    VARCHAR (300) NULL,
+    [DIM_3_T]  VARCHAR (300) NULL,
+    [VALOR]    VARCHAR (300) NULL
+);
+

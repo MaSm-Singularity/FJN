@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[DIM_DISTRITO] (
+    [ID_DIM_DISTRITO] INT          NULL,
+    [CD_DISTRITO]     INT          NULL,
+    [DSC_DISTRITO]    VARCHAR (50) NULL
+);
+

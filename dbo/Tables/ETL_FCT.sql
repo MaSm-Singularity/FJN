@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[ETL_FCT] (
+    [ID_ETL_FCT]         INT           IDENTITY (1, 1) NOT NULL,
+    [DSC_FCT]            VARCHAR (50)  NULL,
+    [DSC_FILE]           VARCHAR (150) NULL,
+    [DSC_FILE_EXTENSION] VARCHAR (150) NULL,
+    [CD_EXTERNAL_SOURCE] VARCHAR (150) NULL,
+    [CD_TEMPLATE]        INT           NULL,
+    [ID_DIM_KPI]         INT           NULL,
+    CONSTRAINT [PK_ETL_FCT] PRIMARY KEY CLUSTERED ([ID_ETL_FCT] ASC)
+);
+
